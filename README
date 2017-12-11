@@ -1,2 +1,6 @@
 Collecting data from Transport data from satori
 and analyzing it
+
+Data collected is in json format, in which upon loading into python shows that it contains a dictionary
+and the values in the dictionary have list and in the lists there are again dictionaries which needs to be
+massaged to get the required attributes.
